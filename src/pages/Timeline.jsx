@@ -1,3 +1,5 @@
+//added timeline item
+
 import TimelineItem from '../components/TimelineItem'
 import { useTimeline } from '../context/TimelineContext'
 
