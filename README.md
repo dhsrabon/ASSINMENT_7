@@ -19,7 +19,7 @@ KeenKeeper helps users keep track of their personal and professional relationshi
 - 🔥 Vite
 - 📦 JavaScript (ES6)
 
----
+---and added to all divice responsive---
 
 ## ✨ Key Features
 
